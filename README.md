@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jagh3t
-- 👀 I’m interested in Fivem development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me Jagh3t#8016
 
 <!---
