@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jagh3t
+- 👋 Hi, I’m Arda.
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me jaghet#8016
 
