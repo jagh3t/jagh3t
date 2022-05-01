@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arda. I'm studying high school in Turkey.
+- 👋 Hi, I’m Arda. I'm studying high school in Turkey. I'm 15 years old.
 - 🌱 I’m currently learning: JavaScript                            
 - 📫 How to reach me: jaghet#8016
 
