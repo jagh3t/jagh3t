@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning: JavaScript                            
 - 📫 How to reach me: jaghet#8016
 
- ![akashi-maho-d4dj](https://user-images.githubusercontent.com/90444486/166138764-45b8d97e-6dfc-4e7a-a664-3e254d379ec0.gif)
+ 
+![yoriichi-demon-slayer-yoriichi-tsugikuni](https://user-images.githubusercontent.com/90444486/166143496-e4dcd368-e259-4437-9333-7272b9a6f27f.gif)
 
 
 
