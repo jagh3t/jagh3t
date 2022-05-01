@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning: JavaScript                            
 - 📫 How to reach me: jaghet#8016
 
- ![cat-computer](https://user-images.githubusercontent.com/90444486/166138636-50c5bfa8-30ed-4616-b7d0-b363ddd4977c.gif)
+ ![akashi-maho-d4dj](https://user-images.githubusercontent.com/90444486/166138764-45b8d97e-6dfc-4e7a-a664-3e254d379ec0.gif)
+
 
 
 <!---
