@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arda.
-- 🌱 I’m currently learning: JavaScript
+- 🌱 I’m currently learning: JavaScript                             ![cat-computer](https://user-images.githubusercontent.com/90444486/166138636-50c5bfa8-30ed-4616-b7d0-b363ddd4977c.gif)
 - 📫 How to reach me: jaghet#8016
 
-![cat-computer](https://user-images.githubusercontent.com/90444486/166138636-50c5bfa8-30ed-4616-b7d0-b363ddd4977c.gif)
+
 
 
 <!---
