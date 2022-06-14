@@ -1,4 +1,5 @@
-👨‍💻Currently learning: C#, JavaScript.                             
+👨‍💻 Currently learning: C#, JavaScript.     
+
 ![attack-on-titan-aot](https://user-images.githubusercontent.com/90444486/173614947-f2bf3526-2a7b-4a5d-b118-47593e80c351.gif)
 
 
