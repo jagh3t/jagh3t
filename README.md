@@ -2,9 +2,7 @@
 - 🌱 I’m currently learning: C#, JavaScript.                             
 - 📫 How to reach me: jagh3t#8016
 
- 
-![akashi-maho-d4dj](https://user-images.githubusercontent.com/90444486/173614685-6bd8f8f4-15af-4caa-9d4c-be1dfdd65a35.gif)
-
+![attack-on-titan-aot](https://user-images.githubusercontent.com/90444486/173614947-f2bf3526-2a7b-4a5d-b118-47593e80c351.gif)
 
 
 <!---
