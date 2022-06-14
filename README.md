@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Arda. I'm studying high school in Turkey. I'm 15 years old.
-- 🌱 I’m currently learning: JavaScript, CSS                            
-- 📫 How to reach me: jaghet#8016
+- 🌱 I’m currently learning: C#, JavaScript.                             
+- 📫 How to reach me: jagh3t#8016
 
  
-![yoriichi-demon-slayer-yoriichi-tsugikuni](https://user-images.githubusercontent.com/90444486/166143496-e4dcd368-e259-4437-9333-7272b9a6f27f.gif)
-
+![akashi-maho-d4dj](https://user-images.githubusercontent.com/90444486/173614685-6bd8f8f4-15af-4caa-9d4c-be1dfdd65a35.gif)
 
 
 
